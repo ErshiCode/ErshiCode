@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ershi
 
-<!--
-**ErshiCode/ErshiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 黑龙江 | 🎓 软件工程在读  
+💻 后端开发者 | Java   
+🚀 开源爱好者 | 热衷于 AI 和自动化工具
 
-Here are some ideas to get you started:
+## 🔧 技术栈
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub 统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErshiCode&show_icons=true&theme=radical)
