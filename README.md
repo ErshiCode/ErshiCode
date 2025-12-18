@@ -1,42 +1,33 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Hello%20World&fontSize=70&fontColor=ffffff&fontAlignY=35" width="100%"/>
-</div>
+```markdown
+# ErshiCode
+
+> Backend Developer. Open Source Enthusiast. Writing code & stories.
 
 <br/>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <h3>👋 Hi, I'm ErshiCode</h3>
-      <p>
-        <b>Backend Developer / Tech Blogger</b>
-      </p>
-      <p>
-        🌱 正在探索 <b>云原生</b> 与 <b>高并发架构</b>
-      </p>
-      <p>
-        💻 擅长: Java, Spring Ecosystem, Vue.js
-      </p>
-      <p>
-        📝 博客: <a href="你的博客链接">ErshiCode.github.io</a>
-      </p>
-      <p>
-        📫 邮箱: <a href="mailto:你的邮箱">Contact Me</a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="center">
-      <h3>🛠️ Tech Stack</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,redis&perline=5" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=python,ts,vue,git,idea&perline=5" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🧐 About
 
-<div align="center">
-  <br/>
-  <a href="你的博客链接"><img src="https://img.shields.io/badge/My_Blog-333333?style=for-the-badge&logo=hugo&logoColor=white" /></a>
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email_Me-007ACC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+正在探索云原生与高并发架构。热衷于构建高效、优雅的后端服务。
+
+- **Focus**: Java, Spring Boot, System Design
+- **Learning**: Rust, Distributed Systems
+- **Blog**: [YourSite.com](https://your-blog-link.com)
+
+<br/>
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white" />
+</p>
+
+<br/>
+
+---
+<p align="center">
+  <small>Open for collaboration. Reach out via <a href="mailto:你的邮箱">Email</a>.</small>
+</p>
